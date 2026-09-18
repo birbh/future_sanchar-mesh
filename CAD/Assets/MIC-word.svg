@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 13.5" width="36mm" height="13.5mm">
+  <!-- Solid Background Plate (Max Height 13.5mm) -->
+  <rect x="0" y="0" width="36" height="13.5" fill="#000000" />
+
+  <!-- Letter M -->
+  <!-- Left Stem -->
+  <circle cx="2.5" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="2.5" cy="4.5" r="0.45" fill="#ffffff" />
+  <circle cx="2.5" cy="7.0" r="0.45" fill="#ffffff" />
+  <circle cx="2.5" cy="9.5" r="0.45" fill="#ffffff" />
+  <circle cx="2.5" cy="11.5" r="0.45" fill="#ffffff" />
+  <!-- Left Diagonal -->
+  <circle cx="4.2" cy="4.5" r="0.45" fill="#ffffff" />
+  <circle cx="5.9" cy="7.0" r="0.45" fill="#ffffff" />
+  <!-- Center Peak V -->
+  <circle cx="7.6" cy="9.5" r="0.45" fill="#ffffff" />
+  <!-- Right Diagonal -->
+  <circle cx="9.3" cy="7.0" r="0.45" fill="#ffffff" />
+  <circle cx="11.0" cy="4.5" r="0.45" fill="#ffffff" />
+  <!-- Right Stem -->
+  <circle cx="12.7" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="12.7" cy="4.5" r="0.45" fill="#ffffff" />
+  <circle cx="12.7" cy="7.0" r="0.45" fill="#ffffff" />
+  <circle cx="12.7" cy="9.5" r="0.45" fill="#ffffff" />
+  <circle cx="12.7" cy="11.5" r="0.45" fill="#ffffff" />
+
+  <!-- Letter I (Expanded top and bottom bars) -->
+  <!-- Top Bar (4 dots) -->
+  <circle cx="15.5" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="16.7" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="17.9" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="19.1" cy="2.0" r="0.45" fill="#ffffff" />
+  <!-- Stem -->
+  <circle cx="17.3" cy="4.5" r="0.45" fill="#ffffff" />
+  <circle cx="17.3" cy="7.0" r="0.45" fill="#ffffff" />
+  <circle cx="17.3" cy="9.5" r="0.45" fill="#ffffff" />
+  <!-- Bottom Bar (4 dots) -->
+  <circle cx="15.5" cy="11.5" r="0.45" fill="#ffffff" />
+  <circle cx="16.7" cy="11.5" r="0.45" fill="#ffffff" />
+  <circle cx="17.9" cy="11.5" r="0.45" fill="#ffffff" />
+  <circle cx="19.1" cy="11.5" r="0.45" fill="#ffffff" />
+
+  <!-- Letter C -->
+  <!-- Top curve -->
+  <circle cx="27.0" cy="2.0" r="0.45" fill="#ffffff" />
+  <circle cx="25.0" cy="2.0" r="0.45" fill="#ffffff" />
+  <!-- Left vertical back -->
+  <circle cx="22.5" cy="4.5" r="0.45" fill="#ffffff" />
+  <circle cx="22.5" cy="7.0" r="0.45" fill="#ffffff" />
+  <circle cx="22.5" cy="9.5" r="0.45" fill="#ffffff" />
+  <!-- Bottom curve -->
+  <circle cx="25.0" cy="11.5" r="0.45" fill="#ffffff" />
+  <circle cx="27.0" cy="11.5" r="0.45" fill="#ffffff" />
+  <!-- Opening ends -->
+  <circle cx="28.5" cy="3.2" r="0.45" fill="#ffffff" />
+  <circle cx="28.5" cy="10.2" r="0.45" fill="#ffffff" />
+</svg>

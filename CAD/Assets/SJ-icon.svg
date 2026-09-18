@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 13.5" width="24mm" height="13.5mm">
+  <!-- Solid Background Plate (13.5mm height) -->
+  <rect x="0" y="0" width="24" height="13.5" fill="#000000" />
+
+  <!-- Letter S -->
+  <!-- Top Bar -->
+  <circle cx="2.5" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="4.0" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="5.5" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="7.0" cy="2.5" r="0.6" fill="#ffffff" />
+  <!-- Upper Left Spine -->
+  <circle cx="2.5" cy="4.5" r="0.6" fill="#ffffff" />
+  <!-- Center Bar -->
+  <circle cx="2.5" cy="6.75" r="0.6" fill="#ffffff" />
+  <circle cx="4.0" cy="6.75" r="0.6" fill="#ffffff" />
+  <circle cx="5.5" cy="6.75" r="0.6" fill="#ffffff" />
+  <circle cx="7.0" cy="6.75" r="0.6" fill="#ffffff" />
+  <!-- Lower Right Spine -->
+  <circle cx="7.0" cy="9.0" r="0.6" fill="#ffffff" />
+  <!-- Bottom Bar -->
+  <circle cx="2.5" cy="11.0" r="0.6" fill="#ffffff" />
+  <circle cx="4.0" cy="11.0" r="0.6" fill="#ffffff" />
+  <circle cx="5.5" cy="11.0" r="0.6" fill="#ffffff" />
+  <circle cx="7.0" cy="11.0" r="0.6" fill="#ffffff" />
+
+  <!-- Letter J -->
+  <!-- Top Bar -->
+  <circle cx="13.5" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="15.0" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="16.5" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="18.0" cy="2.5" r="0.6" fill="#ffffff" />
+  <circle cx="19.5" cy="2.5" r="0.6" fill="#ffffff" />
+  <!-- Vertical Stem -->
+  <circle cx="16.5" cy="4.5" r="0.6" fill="#ffffff" />
+  <circle cx="16.5" cy="6.75" r="0.6" fill="#ffffff" />
+  <circle cx="16.5" cy="9.0" r="0.6" fill="#ffffff" />
+  <!-- Bottom Curve -->
+  <circle cx="13.5" cy="11.0" r="0.6" fill="#ffffff" />
+  <circle cx="15.0" cy="11.0" r="0.6" fill="#ffffff" />
+  <circle cx="16.5" cy="11.0" r="0.6" fill="#ffffff" />
+  <!-- Hook Tip -->
+  <circle cx="13.5" cy="9.0" r="0.6" fill="#ffffff" />
+</svg>
